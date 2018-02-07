@@ -1,0 +1,12 @@
+.row header {
+    background-color: white;
+    padding: 10px;
+    margin: 5px 15PX;
+}
+
+@media (max-width: 575px) {
+    .row header {
+
+    }
+
+}
